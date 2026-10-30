@@ -1,0 +1,10 @@
+{
+  "name": "vite-plugin-cloudflare-preview-request-logs",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@cloudflare/vite-plugin": "1.66.0",
+    "vite": "8.3.5",
+    "wrangler": "4.155.0"
+  }
+}
